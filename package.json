@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "firebase": "~1.0.2",
+    "deep-diff": "~0.1.4"
     "austins-growl": "thataustin/node-growl#3338356ef72"
   }
 }
