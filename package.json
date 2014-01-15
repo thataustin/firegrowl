@@ -1,0 +1,20 @@
+{
+  "name": "firebase-growl",
+  "version": "0.0.0",
+  "description": "Get Growl notifications when your firebase data changes during development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "growl",
+    "node",
+    "firebase"
+  ],
+  "author": "thataustin@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "~1.0.2",
+    "austins-growl": "thataustin/node-growl#3338356ef72"
+  }
+}
