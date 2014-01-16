@@ -17,7 +17,7 @@ By plugging this in, you get something like this:
 
 ~~~
 app.configure('development', function(){
-  firebaseGrowl('<YOUR-FIREBASE-URL>');
+  firegrowl('<YOUR-FIREBASE-URL>');
 });
 ~~~
 

@@ -1,6 +1,6 @@
 {
   "name": "firegrowl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get Growl notifications when your firebase data changes during development",
   "main": "lib/index.js",
   "scripts": {

@@ -3,7 +3,7 @@ var firegrowl = require('./lib/firegrowl.js');
 
 var fbURL = null; // Set your test url here (best with now read/write rules)
 
-if (!fbURL) { throw 'Must set unregulated FB url to run this test!'; }
+if (!fbURL) { throw 'Must set Firebase url that has open read access to run this demo!'; }
 
 firegrowl(fbURL, {sticky: true}); // this call will begin a connection that only listens
 
