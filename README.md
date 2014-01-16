@@ -23,3 +23,6 @@ app.configure('development', function(){
 __Note that at the moment, you must disable .read rules in order for this to work.  This goes without saying, but don't disable any security rules in production, as this is only intended for use in development__
 
 Pull request welcome.  Currently, I haven't setup any sort of authentication such that you could listen on an authenticated firebase channel, but if I get enough feedback, I'd be glad to look into it.
+
+####License
+[WTFPL](http://www.wtfpl.net/about/)

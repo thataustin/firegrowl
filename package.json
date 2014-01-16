@@ -16,6 +16,10 @@
   "dependencies": {
     "firebase": "~1.0.2",
     "deep-diff": "~0.1.4",
-    "austins-growl": "thataustin/node-growl#3338356ef72"
+    "austins-growl": "thataustin/node-growl#3338356ef72",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.12.0"
   }
 }
