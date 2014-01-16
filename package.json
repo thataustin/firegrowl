@@ -1,8 +1,9 @@
 {
   "name": "firegrowl",
+  "email": "thataustin@gmail.com",
   "version": "0.0.1",
   "description": "Get Growl notifications when your firebase data changes during development",
-  "main": "lib/index.js",
+  "main": "lib/firegrowl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
