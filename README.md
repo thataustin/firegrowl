@@ -31,6 +31,14 @@ They aren't all tested; let me know if anything is broken or coule be improved.
 `node demo.js`
 _Note:_ You need to enter a firebase demo into the url.  Once connected, feel free to update/delete values from the firebase db to watch notifications appear on your machine.
 
+#### Tests
+The tests don't cover the actual growl-ing or the firebasing...just some object diff stuff.  To run, just:
+~~~
+cd tests
+jasmine-node .
+~~~
+
+If you don't have jasmine-node: `npm install -g jasmin-node`, though it should have been included when you installed this package.
 ####License
 [WTFPL](http://www.wtfpl.net/about/)
 
