@@ -1,7 +1,7 @@
 'use strict';
 var firegrowl = require('./lib/firegrowl.js');
 
-var fbURL = 'https://austinmbrown.firebaseio.com/'; // Set your test url here (best with now read/write rules)
+var fbURL = null; // Set your test url here (best with now read/write rules)
 
 if (!fbURL) { throw 'Must set unregulated FB url to run this test!'; }
 
