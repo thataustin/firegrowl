@@ -2,14 +2,14 @@ firegrowl
 =========
 
 #### For use with Node/Firebase
-If you don't have growl installed, then see https://github.com/visionmedia/node-growl
+If you don't have growl installed, then see [node-growl](https://github.com/visionmedia/node-growl)
 I'm using a fork of that repo; setup should be equivalent
 
 #### Why use this?
 I got tired of switching between my firebase browser tab and my app tab to figure out which actions were triggering unexpected fb updates.
 By plugging this in, you get something like this:
 
-![Screenshot](http://imgur.com/OsotOTo)
+![Screenshot](http://i.imgur.com/OsotOTo.png, "Sample screenshot")
 
 ####Getting started
 
