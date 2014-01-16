@@ -1,7 +1,7 @@
 {
   "name": "firegrowl",
   "email": "thataustin@gmail.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get Growl notifications when your firebase data changes during development",
   "main": "lib/firegrowl.js",
   "scripts": {
